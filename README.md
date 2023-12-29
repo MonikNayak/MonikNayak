@@ -11,6 +11,7 @@
 - 💬 Ask me about **Python,Artificial Intelligence,data Science**
 
 - 📫 How to reach me **moniknayak18@gmail.com**
+- My Linkedin id ="https://www.linkedin.com/in/monik-nayak-8b5684286/"
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wme-P7eSAYcOnrkHxzu2X4FYDy2eiqbu/view](https://drive.google.com/file/d/1Wme-P7eSAYcOnrkHxzu2X4FYDy2eiqbu/view)
 
