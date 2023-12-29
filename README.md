@@ -4,7 +4,7 @@
 <h3 align="center">"Data Science Enthusiast's GitHub Hub"</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moniknayak" alt="moniknayak" /></a> </p>
 
-- 🔭 I’m currently working on **Count Obeject In Image**
+- 🔭 I’m currently working on **Improve my Self**
 
 - 🌱 I’m currently learning **New tools for Data Analytic like tableau,Ms excel,power bi And scikit-learn,numpy,pandas,NLP**
 
