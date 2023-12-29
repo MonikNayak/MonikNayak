@@ -1,4 +1,5 @@
-<center [![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)]>
+<div align = "center"> <img src ="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"></div>
+
 <h1 align="center">Hi 👋, I'm Monik Nayak</h1>
 <h3 align="center">"Data Science Enthusiast's GitHub Hub"</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moniknayak" alt="moniknayak" /></a> </p>
