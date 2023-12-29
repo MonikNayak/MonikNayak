@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monik Nayak</h1>
 <h3 align="center">"Data Science Enthusiast's GitHub Hub"</h3>
-<IMG SRC="a.gif">
+<IMG SRC="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw26NLFVUHMp8SSLRi5m2jC0&ust=1703945448934000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDw_cvptIMDFQAAAAAdAAAAABAE">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moniknayak" alt="moniknayak" /></a> </p>
 
 - 🔭 I’m currently working on **Count Obeject In Image**
