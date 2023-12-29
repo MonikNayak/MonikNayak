@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)]
+<IMG SRC ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw26NLFVUHMp8SSLRi5m2jC0&ust=1703945448934000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDw_cvptIMDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Monik Nayak</h1>
 <h3 align="center">"Data Science Enthusiast's GitHub Hub"</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moniknayak" alt="moniknayak" /></a> </p>
